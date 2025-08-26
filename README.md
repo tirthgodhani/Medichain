@@ -61,7 +61,7 @@ A full-stack web application for managing health data across different facilitie
 
 1. Clone the repository
 ```bash
-git clone https://github.com/pdonda06/SGP_6.git
+git clone https://github.com/tirthgodhani/Medichain.git
 cd SGP_6
 ```
 
@@ -146,9 +146,5 @@ The frontend is PWA-enabled with features including:
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## License
 
-This project is licensed under the MIT License.
-
-## Contact
 
